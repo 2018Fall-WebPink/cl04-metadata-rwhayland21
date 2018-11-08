@@ -1,0 +1,28 @@
+/*
+*Riley Whayland 
+*October 2, 2018 
+*Favorite Pictures
+
+/* The universal selector */ 
+
+*{
+
+}
+
+/* Body attributes here */ 
+
+body {
+    background-color:lightgray;
+                color:black;
+
+}
+
+header {
+    background-color:lightcyan;
+    }
+main {
+    background-color:lightpink;
+    } 
+footer {
+    background-color:lightyellow;
+    }
